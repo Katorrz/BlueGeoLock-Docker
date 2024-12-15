@@ -1,5 +1,7 @@
 ## Démarrer le projet
 
+`http://localhost:8080/`
+
 Pour démarrer le projet, vous avez deux options :
 
 1. Avec Docker Compose :
@@ -12,7 +14,7 @@ Pour démarrer le projet, vous avez deux options :
     ./start.sh
     ```
 
-2. Si rien ne bouge sur le terrain `restart.sh` :
+3. Si rien ne bouge sur le terrain `restart.sh` :
     ```bash
     ./restart.sh
     ```
